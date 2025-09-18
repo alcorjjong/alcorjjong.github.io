@@ -1,0 +1,327 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<HTML>
+
+<HEAD>
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<META NAME="Generator" CONTENT="Hancom HWP 8.5.8.1459">
+<STYLE type="text/css">
+<!--
+p.HStyle0
+	{style-name:"바탕글"; margin-top:0.0pt; margin-bottom:0.0pt; text-align:justify; text-indent:0.0pt; line-height:160%; font-size:10.0pt; font-family:함초롬바탕; letter-spacing:0; font-weight:"normal"; font-style:"normal"; color:#000000;}
+li.HStyle0
+	{style-name:"바탕글"; margin-top:0.0pt; margin-bottom:0.0pt; text-align:justify; text-indent:0.0pt; line-height:160%; font-size:10.0pt; font-family:함초롬바탕; letter-spacing:0; font-weight:"normal"; font-style:"normal"; color:#000000;}
+div.HStyle0
+	{style-name:"바탕글"; margin-top:0.0pt; margin-bottom:0.0pt; text-align:justify; text-indent:0.0pt; line-height:160%; font-size:10.0pt; font-family:함초롬바탕; letter-spacing:0; font-weight:"normal"; font-style:"normal"; color:#000000;}
+p.HStyle1
+	{style-name:"본문"; margin-left:15.0pt; margin-top:0.0pt; margin-bottom:0.0pt; text-align:justify; text-indent:0.0pt; line-height:160%; font-size:10.0pt; font-family:함초롬바탕; letter-spacing:0; font-weight:"normal"; font-style:"normal"; color:#000000;}
+li.HStyle1
+	{style-name:"본문"; margin-left:15.0pt; margin-top:0.0pt; margin-bottom:0.0pt; text-align:justify; text-indent:0.0pt; line-height:160%; font-size:10.0pt; font-family:함초롬바탕; letter-spacing:0; font-weight:"normal"; font-style:"normal"; color:#000000;}
+div.HStyle1
+	{style-name:"본문"; margin-left:15.0pt; margin-top:0.0pt; margin-bottom:0.0pt; text-align:justify; text-indent:0.0pt; line-height:160%; font-size:10.0pt; font-family:함초롬바탕; letter-spacing:0; font-weight:"normal"; font-style:"normal"; color:#000000;}
+p.HStyle2
+	{style-name:"개요 1"; margin-left:10.0pt; margin-top:0.0pt; margin-bottom:0.0pt; text-align:justify; text-indent:0.0pt; line-height:160%; font-size:10.0pt; font-family:함초롬바탕; letter-spacing:0; font-weight:"normal"; font-style:"normal"; color:#000000;}
+li.HStyle2
+	{style-name:"개요 1"; margin-left:10.0pt; margin-top:0.0pt; margin-bottom:0.0pt; text-align:justify; text-indent:0.0pt; line-height:160%; font-size:10.0pt; font-family:함초롬바탕; letter-spacing:0; font-weight:"normal"; font-style:"normal"; color:#000000;}
+div.HStyle2
+	{style-name:"개요 1"; margin-left:10.0pt; margin-top:0.0pt; margin-bottom:0.0pt; text-align:justify; text-indent:0.0pt; line-height:160%; font-size:10.0pt; font-family:함초롬바탕; letter-spacing:0; font-weight:"normal"; font-style:"normal"; color:#000000;}
+p.HStyle3
+	{style-name:"개요 2"; margin-left:20.0pt; margin-top:0.0pt; margin-bottom:0.0pt; text-align:justify; text-indent:0.0pt; line-height:160%; font-size:10.0pt; font-family:함초롬바탕; letter-spacing:0; font-weight:"normal"; font-style:"normal"; color:#000000;}
+li.HStyle3
+	{style-name:"개요 2"; margin-left:20.0pt; margin-top:0.0pt; margin-bottom:0.0pt; text-align:justify; text-indent:0.0pt; line-height:160%; font-size:10.0pt; font-family:함초롬바탕; letter-spacing:0; font-weight:"normal"; font-style:"normal"; color:#000000;}
+div.HStyle3
+	{style-name:"개요 2"; margin-left:20.0pt; margin-top:0.0pt; margin-bottom:0.0pt; text-align:justify; text-indent:0.0pt; line-height:160%; font-size:10.0pt; font-family:함초롬바탕; letter-spacing:0; font-weight:"normal"; font-style:"normal"; color:#000000;}
+p.HStyle4
+	{style-name:"개요 3"; margin-left:30.0pt; margin-top:0.0pt; margin-bottom:0.0pt; text-align:justify; text-indent:0.0pt; line-height:160%; font-size:10.0pt; font-family:함초롬바탕; letter-spacing:0; font-weight:"normal"; font-style:"normal"; color:#000000;}
+li.HStyle4
+	{style-name:"개요 3"; margin-left:30.0pt; margin-top:0.0pt; margin-bottom:0.0pt; text-align:justify; text-indent:0.0pt; line-height:160%; font-size:10.0pt; font-family:함초롬바탕; letter-spacing:0; font-weight:"normal"; font-style:"normal"; color:#000000;}
+div.HStyle4
+	{style-name:"개요 3"; margin-left:30.0pt; margin-top:0.0pt; margin-bottom:0.0pt; text-align:justify; text-indent:0.0pt; line-height:160%; font-size:10.0pt; font-family:함초롬바탕; letter-spacing:0; font-weight:"normal"; font-style:"normal"; color:#000000;}
+p.HStyle5
+	{style-name:"개요 4"; margin-left:40.0pt; margin-top:0.0pt; margin-bottom:0.0pt; text-align:justify; text-indent:0.0pt; line-height:160%; font-size:10.0pt; font-family:함초롬바탕; letter-spacing:0; font-weight:"normal"; font-style:"normal"; color:#000000;}
+li.HStyle5
+	{style-name:"개요 4"; margin-left:40.0pt; margin-top:0.0pt; margin-bottom:0.0pt; text-align:justify; text-indent:0.0pt; line-height:160%; font-size:10.0pt; font-family:함초롬바탕; letter-spacing:0; font-weight:"normal"; font-style:"normal"; color:#000000;}
+div.HStyle5
+	{style-name:"개요 4"; margin-left:40.0pt; margin-top:0.0pt; margin-bottom:0.0pt; text-align:justify; text-indent:0.0pt; line-height:160%; font-size:10.0pt; font-family:함초롬바탕; letter-spacing:0; font-weight:"normal"; font-style:"normal"; color:#000000;}
+p.HStyle6
+	{style-name:"개요 5"; margin-left:50.0pt; margin-top:0.0pt; margin-bottom:0.0pt; text-align:justify; text-indent:0.0pt; line-height:160%; font-size:10.0pt; font-family:함초롬바탕; letter-spacing:0; font-weight:"normal"; font-style:"normal"; color:#000000;}
+li.HStyle6
+	{style-name:"개요 5"; margin-left:50.0pt; margin-top:0.0pt; margin-bottom:0.0pt; text-align:justify; text-indent:0.0pt; line-height:160%; font-size:10.0pt; font-family:함초롬바탕; letter-spacing:0; font-weight:"normal"; font-style:"normal"; color:#000000;}
+div.HStyle6
+	{style-name:"개요 5"; margin-left:50.0pt; margin-top:0.0pt; margin-bottom:0.0pt; text-align:justify; text-indent:0.0pt; line-height:160%; font-size:10.0pt; font-family:함초롬바탕; letter-spacing:0; font-weight:"normal"; font-style:"normal"; color:#000000;}
+p.HStyle7
+	{style-name:"개요 6"; margin-left:60.0pt; margin-top:0.0pt; margin-bottom:0.0pt; text-align:justify; text-indent:0.0pt; line-height:160%; font-size:10.0pt; font-family:함초롬바탕; letter-spacing:0; font-weight:"normal"; font-style:"normal"; color:#000000;}
+li.HStyle7
+	{style-name:"개요 6"; margin-left:60.0pt; margin-top:0.0pt; margin-bottom:0.0pt; text-align:justify; text-indent:0.0pt; line-height:160%; font-size:10.0pt; font-family:함초롬바탕; letter-spacing:0; font-weight:"normal"; font-style:"normal"; color:#000000;}
+div.HStyle7
+	{style-name:"개요 6"; margin-left:60.0pt; margin-top:0.0pt; margin-bottom:0.0pt; text-align:justify; text-indent:0.0pt; line-height:160%; font-size:10.0pt; font-family:함초롬바탕; letter-spacing:0; font-weight:"normal"; font-style:"normal"; color:#000000;}
+p.HStyle8
+	{style-name:"개요 7"; margin-left:70.0pt; margin-top:0.0pt; margin-bottom:0.0pt; text-align:justify; text-indent:0.0pt; line-height:160%; font-size:10.0pt; font-family:함초롬바탕; letter-spacing:0; font-weight:"normal"; font-style:"normal"; color:#000000;}
+li.HStyle8
+	{style-name:"개요 7"; margin-left:70.0pt; margin-top:0.0pt; margin-bottom:0.0pt; text-align:justify; text-indent:0.0pt; line-height:160%; font-size:10.0pt; font-family:함초롬바탕; letter-spacing:0; font-weight:"normal"; font-style:"normal"; color:#000000;}
+div.HStyle8
+	{style-name:"개요 7"; margin-left:70.0pt; margin-top:0.0pt; margin-bottom:0.0pt; text-align:justify; text-indent:0.0pt; line-height:160%; font-size:10.0pt; font-family:함초롬바탕; letter-spacing:0; font-weight:"normal"; font-style:"normal"; color:#000000;}
+p.HStyle9
+	{style-name:"쪽 번호"; margin-top:0.0pt; margin-bottom:0.0pt; text-align:justify; text-indent:0.0pt; line-height:160%; font-size:10.0pt; font-family:함초롬돋움; letter-spacing:0; font-weight:"normal"; font-style:"normal"; color:#000000;}
+li.HStyle9
+	{style-name:"쪽 번호"; margin-top:0.0pt; margin-bottom:0.0pt; text-align:justify; text-indent:0.0pt; line-height:160%; font-size:10.0pt; font-family:함초롬돋움; letter-spacing:0; font-weight:"normal"; font-style:"normal"; color:#000000;}
+div.HStyle9
+	{style-name:"쪽 번호"; margin-top:0.0pt; margin-bottom:0.0pt; text-align:justify; text-indent:0.0pt; line-height:160%; font-size:10.0pt; font-family:함초롬돋움; letter-spacing:0; font-weight:"normal"; font-style:"normal"; color:#000000;}
+p.HStyle10
+	{style-name:"머리말"; margin-top:0.0pt; margin-bottom:0.0pt; text-align:justify; text-indent:0.0pt; line-height:150%; font-size:9.0pt; font-family:함초롬돋움; letter-spacing:0; font-weight:"normal"; font-style:"normal"; color:#000000;}
+li.HStyle10
+	{style-name:"머리말"; margin-top:0.0pt; margin-bottom:0.0pt; text-align:justify; text-indent:0.0pt; line-height:150%; font-size:9.0pt; font-family:함초롬돋움; letter-spacing:0; font-weight:"normal"; font-style:"normal"; color:#000000;}
+div.HStyle10
+	{style-name:"머리말"; margin-top:0.0pt; margin-bottom:0.0pt; text-align:justify; text-indent:0.0pt; line-height:150%; font-size:9.0pt; font-family:함초롬돋움; letter-spacing:0; font-weight:"normal"; font-style:"normal"; color:#000000;}
+p.HStyle11
+	{style-name:"각주"; margin-left:13.1pt; margin-top:0.0pt; margin-bottom:0.0pt; text-align:justify; text-indent:-13.1pt; line-height:130%; font-size:9.0pt; font-family:함초롬바탕; letter-spacing:0; font-weight:"normal"; font-style:"normal"; color:#000000;}
+li.HStyle11
+	{style-name:"각주"; margin-left:13.1pt; margin-top:0.0pt; margin-bottom:0.0pt; text-align:justify; text-indent:-13.1pt; line-height:130%; font-size:9.0pt; font-family:함초롬바탕; letter-spacing:0; font-weight:"normal"; font-style:"normal"; color:#000000;}
+div.HStyle11
+	{style-name:"각주"; margin-left:13.1pt; margin-top:0.0pt; margin-bottom:0.0pt; text-align:justify; text-indent:-13.1pt; line-height:130%; font-size:9.0pt; font-family:함초롬바탕; letter-spacing:0; font-weight:"normal"; font-style:"normal"; color:#000000;}
+p.HStyle12
+	{style-name:"미주"; margin-left:13.1pt; margin-top:0.0pt; margin-bottom:0.0pt; text-align:justify; text-indent:-13.1pt; line-height:130%; font-size:9.0pt; font-family:함초롬바탕; letter-spacing:0; font-weight:"normal"; font-style:"normal"; color:#000000;}
+li.HStyle12
+	{style-name:"미주"; margin-left:13.1pt; margin-top:0.0pt; margin-bottom:0.0pt; text-align:justify; text-indent:-13.1pt; line-height:130%; font-size:9.0pt; font-family:함초롬바탕; letter-spacing:0; font-weight:"normal"; font-style:"normal"; color:#000000;}
+div.HStyle12
+	{style-name:"미주"; margin-left:13.1pt; margin-top:0.0pt; margin-bottom:0.0pt; text-align:justify; text-indent:-13.1pt; line-height:130%; font-size:9.0pt; font-family:함초롬바탕; letter-spacing:0; font-weight:"normal"; font-style:"normal"; color:#000000;}
+p.HStyle13
+	{style-name:"메모"; margin-top:0.0pt; margin-bottom:0.0pt; text-align:left; text-indent:0.0pt; line-height:130%; font-size:9.0pt; font-family:함초롬돋움; letter-spacing:-5%; font-weight:"normal"; font-style:"normal"; color:#000000;}
+li.HStyle13
+	{style-name:"메모"; margin-top:0.0pt; margin-bottom:0.0pt; text-align:left; text-indent:0.0pt; line-height:130%; font-size:9.0pt; font-family:함초롬돋움; letter-spacing:-5%; font-weight:"normal"; font-style:"normal"; color:#000000;}
+div.HStyle13
+	{style-name:"메모"; margin-top:0.0pt; margin-bottom:0.0pt; text-align:left; text-indent:0.0pt; line-height:130%; font-size:9.0pt; font-family:함초롬돋움; letter-spacing:-5%; font-weight:"normal"; font-style:"normal"; color:#000000;}
+-->
+</STYLE>
+</HEAD>
+
+<BODY>
+
+<P CLASS=HStyle0 STYLE='text-align:center;line-height:150%;'><SPAN STYLE='font-size:40.0pt;font-weight:"bold";line-height:150%'>영서(永瑞 23世) 계보</SPAN></P>
+
+<P CLASS=HStyle0 STYLE='text-align:center;'>
+<TABLE border="1" cellspacing="0" cellpadding="0" style='border-collapse:collapse;border:none;'>
+<TR>
+	<TD valign="middle" style='width:218;height:92;border-left:solid #000000 0.4pt;border-right:solid #000000 0.4pt;border-top:solid #000000 0.4pt;border-bottom:solid #000000 0.4pt;padding:1.4pt 5.1pt 1.4pt 5.1pt'>
+	<P CLASS=HStyle0 STYLE='text-align:center;line-height:120%;'><SPAN STYLE='font-size:30.0pt;font-weight:"bold";line-height:120%'>23세</SPAN></P>
+	<P CLASS=HStyle0 STYLE='text-align:center;line-height:120%;'><SPAN STYLE='font-size:30.0pt;font-weight:"bold";line-height:120%'>(永)</SPAN></P>
+	</TD>
+	<TD valign="middle" style='width:274;height:92;border-left:solid #000000 0.4pt;border-right:solid #000000 0.4pt;border-top:solid #000000 0.4pt;border-bottom:solid #000000 0.4pt;padding:1.4pt 5.1pt 1.4pt 5.1pt'>
+	<P CLASS=HStyle0 STYLE='text-align:center;line-height:120%;'><SPAN STYLE='font-size:30.0pt;font-weight:"bold";line-height:120%'>24세</SPAN></P>
+	<P CLASS=HStyle0 STYLE='text-align:center;line-height:120%;'><SPAN STYLE='font-size:30.0pt;font-weight:"bold";line-height:120%'>(秀)</SPAN></P>
+	</TD>
+	<TD valign="middle" style='width:290;height:92;border-left:solid #000000 0.4pt;border-right:solid #000000 0.4pt;border-top:solid #000000 0.4pt;border-bottom:solid #000000 0.4pt;padding:1.4pt 5.1pt 1.4pt 5.1pt'>
+	<P CLASS=HStyle0 STYLE='text-align:center;line-height:120%;'><SPAN STYLE='font-size:30.0pt;font-weight:"bold";line-height:120%'>25세</SPAN></P>
+	<P CLASS=HStyle0 STYLE='text-align:center;line-height:120%;'><SPAN STYLE='font-size:30.0pt;font-weight:"bold";line-height:120%'>(大)</SPAN></P>
+	</TD>
+	<TD valign="middle" style='width:286;height:92;border-left:solid #000000 0.4pt;border-right:solid #000000 0.4pt;border-top:solid #000000 0.4pt;border-bottom:solid #000000 0.4pt;padding:1.4pt 5.1pt 1.4pt 5.1pt'>
+	<P CLASS=HStyle0 STYLE='text-align:center;line-height:120%;'><SPAN STYLE='font-size:30.0pt;font-weight:"bold";line-height:120%'>26세</SPAN></P>
+	<P CLASS=HStyle0 STYLE='text-align:center;line-height:120%;'><SPAN STYLE='font-size:30.0pt;font-weight:"bold";line-height:120%'>(遠)</SPAN></P>
+	</TD>
+</TR>
+<TR>
+	<TD rowspan="31" valign="middle" style='width:218;height:1373;border-left:solid #000000 0.4pt;border-right:solid #000000 0.4pt;border-top:solid #000000 0.4pt;border-bottom:solid #000000 0.4pt;padding:1.4pt 5.1pt 1.4pt 5.1pt' height="1340">
+	<P CLASS=HStyle0 STYLE='text-align:center;line-height:150%;'><SPAN STYLE='font-size:30.0pt;font-weight:"bold";line-height:150%'>영서</SPAN></P>
+	<P CLASS=HStyle0 STYLE='text-align:center;line-height:150%;'><SPAN STYLE='font-size:30.0pt;font-weight:"bold";line-height:150%'>(永瑞)</SPAN></P>
+	</TD>
+	<TD rowspan="23" valign="middle" style='width:274;height:1023;border-left:solid #000000 0.4pt;border-right:solid #000000 0.4pt;border-top:solid #000000 0.4pt;border-bottom:solid #000000 0.4pt;padding:1.4pt 5.1pt 1.4pt 5.1pt' height="988">
+	<P CLASS=HStyle0 STYLE='text-align:center;line-height:150%;'><SPAN STYLE='font-size:30.0pt;font-weight:"bold";line-height:150%'>덕무(德武)</SPAN></P>
+	<P CLASS=HStyle0 STYLE='text-align:center;line-height:150%;'><SPAN STYLE='font-size:30.0pt;font-weight:"bold";line-height:150%'>&nbsp;</SPAN></P>
+	<P CLASS=HStyle0 STYLE='text-align:center;line-height:150%;'><SPAN STYLE='font-size:25.0pt;font-weight:"bold";line-height:150%'><a href="24덕무%20계보.htm" target="_blank">&lt;계보&gt;</a></SPAN></P>
+	</TD>
+	<TD rowspan="4" valign="middle" style='width:290;height:175;border-left:solid #000000 0.4pt;border-right:solid #000000 0.4pt;border-top:solid #000000 0.4pt;border-bottom:solid #000000 0.4pt;padding:1.4pt 5.1pt 1.4pt 5.1pt'>
+	<P CLASS=HStyle0 STYLE='text-align:center;line-height:150%;'><SPAN STYLE='font-size:30.0pt;font-weight:"bold";line-height:150%'>명식(明植)</SPAN></P>
+	<P CLASS=HStyle0 STYLE='text-align:center;line-height:150%;'><SPAN STYLE='font-size:25.0pt;font-weight:"bold";line-height:150%'><a href="25명식%20계보.htm" target="_blank">&lt;계보&gt;</a></SPAN></P>
+	</TD>
+	<TD valign="middle" style='width:286;height:44;border-left:solid #000000 0.4pt;border-right:solid #000000 0.4pt;border-top:solid #000000 0.4pt;border-bottom:solid #000000 0.4pt;padding:1.4pt 5.1pt 1.4pt 5.1pt'>
+	<P CLASS=HStyle0 STYLE='text-align:center;line-height:150%;'><SPAN STYLE='font-size:30.0pt;font-weight:"bold";line-height:150%'><a href="개인별정보26/26병영.htm" target="_top">병영(炳瀯)</a></SPAN></P>
+	</TD>
+</TR>
+<TR>
+	<TD valign="middle" style='width:286;height:44;border-left:solid #000000 0.4pt;border-right:solid #000000 0.4pt;border-top:solid #000000 0.4pt;border-bottom:solid #000000 0.4pt;padding:1.4pt 5.1pt 1.4pt 5.1pt'>
+	<P CLASS=HStyle0 STYLE='text-align:center;line-height:150%;'><SPAN STYLE='font-size:30.0pt;font-weight:"bold";line-height:150%'><a href="개인별정보26/26이석.htm" target="_top">이석(二碩)</a></SPAN></P>
+	</TD>
+</TR>
+<TR>
+	<TD valign="middle" style='width:286;height:44;border-left:solid #000000 0.4pt;border-right:solid #000000 0.4pt;border-top:solid #000000 0.4pt;border-bottom:solid #000000 0.4pt;padding:1.4pt 5.1pt 1.4pt 5.1pt'>
+	<P CLASS=HStyle0 STYLE='text-align:center;line-height:150%;'><SPAN STYLE='font-size:30.0pt;font-weight:"bold";line-height:150%'><a href="개인별정보26/26병석.htm" target="_top">병석(炳碩)</a></SPAN></P>
+	</TD>
+</TR>
+<TR>
+	<TD valign="middle" style='width:286;height:44;border-left:solid #000000 0.4pt;border-right:solid #000000 0.4pt;border-top:solid #000000 0.4pt;border-bottom:solid #000000 0.4pt;padding:1.4pt 5.1pt 1.4pt 5.1pt'>
+	<P CLASS=HStyle0 STYLE='text-align:center;line-height:150%;'><SPAN STYLE='font-size:30.0pt;font-weight:"bold";line-height:150%'><a href="개인별정보26/26창석.htm" target="_top">창석(昌碩)</a></SPAN></P>
+	</TD>
+</TR>
+<TR>
+	<TD rowspan="5" valign="middle" style='width:290;height:219;border-left:solid #000000 0.4pt;border-right:solid #000000 0.4pt;border-top:solid #000000 0.4pt;border-bottom:solid #000000 0.4pt;padding:1.4pt 5.1pt 1.4pt 5.1pt'>
+	<P CLASS=HStyle0 STYLE='text-align:center;line-height:150%;'><SPAN STYLE='font-size:30.0pt;font-weight:"bold";line-height:150%'>태식(太植)</SPAN></P>
+	<P CLASS=HStyle0 STYLE='text-align:center;line-height:150%;'><SPAN STYLE='font-size:25.0pt;font-weight:"bold";line-height:150%'><a href="25태식%20계보.htm" target="_blank">&lt;계보&gt;</a></SPAN></P>
+	</TD>
+	<TD valign="middle" style='width:286;height:44;border-left:solid #000000 0.4pt;border-right:solid #000000 0.4pt;border-top:solid #000000 0.4pt;border-bottom:solid #000000 0.4pt;padding:1.4pt 5.1pt 1.4pt 5.1pt'>
+	<P CLASS=HStyle0 STYLE='text-align:center;line-height:150%;'><SPAN STYLE='font-size:30.0pt;font-weight:"bold";line-height:150%'><a href="개인별정보26/26갑석.htm" target="_top">갑석(甲錫)</a></SPAN></P>
+	</TD>
+</TR>
+<TR>
+	<TD valign="middle" style='width:286;height:44;border-left:solid #000000 0.4pt;border-right:solid #000000 0.4pt;border-top:solid #000000 0.4pt;border-bottom:solid #000000 0.4pt;padding:1.4pt 5.1pt 1.4pt 5.1pt'>
+	<P CLASS=HStyle0 STYLE='text-align:center;line-height:150%;'><SPAN STYLE='font-size:30.0pt;font-weight:"bold";line-height:150%'><a href="개인별정보26/26정석.htm" target="_top">정석(丁錫)</a></SPAN></P>
+	</TD>
+</TR>
+<TR>
+	<TD valign="middle" style='width:286;height:44;border-left:solid #000000 0.4pt;border-right:solid #000000 0.4pt;border-top:solid #000000 0.4pt;border-bottom:solid #000000 0.4pt;padding:1.4pt 5.1pt 1.4pt 5.1pt'>
+	<P CLASS=HStyle0 STYLE='text-align:center;line-height:150%;'><SPAN STYLE='font-size:30.0pt;font-weight:"bold";line-height:150%'><a href="개인별정보26/26보석.htm" target="_top">보석(寶碩)</a></SPAN></P>
+	</TD>
+</TR>
+<TR>
+	<TD valign="middle" style='width:286;height:44;border-left:solid #000000 0.4pt;border-right:solid #000000 0.4pt;border-top:solid #000000 0.4pt;border-bottom:solid #000000 0.4pt;padding:1.4pt 5.1pt 1.4pt 5.1pt'>
+	<P CLASS=HStyle0 STYLE='text-align:center;line-height:150%;'><SPAN STYLE='font-size:30.0pt;font-weight:"bold";line-height:150%'><a href="개인별정보26/26광석.htm" target="_top">광석(光碩)</a></SPAN></P>
+	</TD>
+</TR>
+<TR>
+	<TD valign="middle" style='width:286;height:44;border-left:solid #000000 0.4pt;border-right:solid #000000 0.4pt;border-top:solid #000000 0.4pt;border-bottom:solid #000000 0.4pt;padding:1.4pt 5.1pt 1.4pt 5.1pt'>
+	<P CLASS=HStyle0 STYLE='text-align:center;line-height:150%;'><SPAN STYLE='font-size:30.0pt;font-weight:"bold";line-height:150%'><a href="개인별정보26/26팔만.htm" target="_top">팔만(八萬)</a></SPAN></P>
+	</TD>
+</TR>
+<TR>
+	<TD rowspan="2" valign="middle" style='width:290;height:104;border-left:solid #000000 0.4pt;border-right:solid #000000 0.4pt;border-top:solid #000000 0.4pt;border-bottom:solid #000000 0.4pt;padding:1.4pt 5.1pt 1.4pt 5.1pt'>
+	<P CLASS=HStyle0 STYLE='text-align:center;line-height:150%;'><SPAN STYLE='font-size:30.0pt;font-weight:"bold";line-height:150%'>유붕(有朋)</SPAN></P>
+	<P CLASS=HStyle0 STYLE='text-align:center;line-height:150%;'><SPAN STYLE='font-size:25.0pt;font-weight:"bold";line-height:150%'><a href="25유봉%20계보.htm" target="_blank">&lt;계보&gt;</a></SPAN></P>
+	</TD>
+	<TD valign="middle" style='width:286;height:44;border-left:solid #000000 0.4pt;border-right:solid #000000 0.4pt;border-top:solid #000000 0.4pt;border-bottom:solid #000000 0.4pt;padding:1.4pt 5.1pt 1.4pt 5.1pt'>
+	<P CLASS=HStyle0 STYLE='text-align:center;line-height:150%;'><SPAN STYLE='font-size:30.0pt;font-weight:"bold";line-height:150%'><a href="개인별정보26/26일석.htm" target="_top">일석(一碩)</a></SPAN></P>
+	</TD>
+</TR>
+<TR>
+	<TD valign="middle" style='width:286;height:60;border-left:solid #000000 0.4pt;border-right:solid #000000 0.4pt;border-top:solid #000000 0.4pt;border-bottom:solid #000000 0.4pt;padding:1.4pt 5.1pt 1.4pt 5.1pt'>
+	<P CLASS=HStyle0 STYLE='text-align:center;line-height:150%;'><SPAN STYLE='font-size:30.0pt;font-weight:"bold";line-height:150%'><a href="개인별정보26/26금석.htm" target="_top">금석(金碩)</a></SPAN></P>
+	</TD>
+</TR>
+<TR>
+	<TD rowspan="3" valign="middle" style='width:290;height:131;border-left:solid #000000 0.4pt;border-right:solid #000000 0.4pt;border-top:solid #000000 0.4pt;border-bottom:solid #000000 0.4pt;padding:1.4pt 5.1pt 1.4pt 5.1pt' height="130">
+	<P CLASS=HStyle0 STYLE='text-align:center;line-height:150%;'><SPAN STYLE='font-size:30.0pt;font-weight:"bold";line-height:150%'>유철(有喆)</SPAN></P>
+	<P CLASS=HStyle0 STYLE='text-align:center;line-height:150%;'><SPAN STYLE='font-size:25.0pt;font-weight:"bold";line-height:150%'><a href="25유철%20계보.htm" target="_blank">&lt;계보&gt;</a></SPAN></P>
+	</TD>
+	<TD valign="middle" style='width:286;height:44;border-left:solid #000000 0.4pt;border-right:solid #000000 0.4pt;border-top:solid #000000 0.4pt;border-bottom:solid #000000 0.4pt;padding:1.4pt 5.1pt 1.4pt 5.1pt'>
+	<P CLASS=HStyle0 STYLE='text-align:center;line-height:150%;'><SPAN STYLE='font-size:30.0pt;font-weight:"bold";line-height:150%'><a href="개인별정보26/26산전.htm" target="_top">산전(山田)</a></SPAN></P>
+	</TD>
+</TR>
+<TR>
+	<TD valign="middle" style='width:286;height:44;border-left:solid #000000 0.4pt;border-right:solid #000000 0.4pt;border-top:solid #000000 0.4pt;border-bottom:solid #000000 0.4pt;padding:1.4pt 5.1pt 1.4pt 5.1pt'>
+	<P CLASS=HStyle0 STYLE='text-align:center;line-height:150%;'><SPAN STYLE='font-size:30.0pt;font-weight:"bold";line-height:150%'><a href="개인별정보26/26산호.htm" target="_top">산호(山浩)</a></SPAN></P>
+	</TD>
+</TR>
+<TR>
+	<TD valign="middle" style='width:286;height:44;border-left:solid #000000 0.4pt;border-right:solid #000000 0.4pt;border-top:solid #000000 0.4pt;border-bottom:solid #000000 0.4pt;padding:1.4pt 5.1pt 1.4pt 5.1pt' height="42">
+	<P CLASS=HStyle0 STYLE='text-align:center;line-height:150%;'><SPAN STYLE='font-size:30.0pt;font-weight:"bold";line-height:150%'><a href="개인별정보26/26정삼.htm" target="_top">정삼(精三)</a></SPAN></P>
+	</TD>
+</TR>
+<TR>
+	<TD rowspan="6" valign="middle" style='width:290;height:263;border-left:solid #000000 0.4pt;border-right:solid #000000 0.4pt;border-top:solid #000000 0.4pt;border-bottom:solid #000000 0.4pt;padding:1.4pt 5.1pt 1.4pt 5.1pt'>
+	<P CLASS=HStyle0 STYLE='text-align:center;line-height:150%;'><SPAN STYLE='font-size:30.0pt;font-weight:"bold";line-height:150%'>유희(有熙)</SPAN></P>
+	<P CLASS=HStyle0 STYLE='text-align:center;line-height:150%;'><SPAN STYLE='font-size:25.0pt;font-weight:"bold";line-height:150%'><a href="25유희%20계보.htm" target="_blank">&lt;계보&gt;</a></SPAN></P>
+	</TD>
+	<TD valign="middle" style='width:286;height:44;border-left:solid #000000 0.4pt;border-right:solid #000000 0.4pt;border-top:solid #000000 0.4pt;border-bottom:solid #000000 0.4pt;padding:1.4pt 5.1pt 1.4pt 5.1pt'>
+	<P CLASS=HStyle0 STYLE='text-align:center;line-height:150%;'><SPAN STYLE='font-size:30.0pt;font-weight:"bold";line-height:150%'><a href="개인별정보26/26길석.htm" target="_top">길석(吉碩)</a></SPAN></P>
+	</TD>
+</TR>
+<TR>
+	<TD valign="middle" style='width:286;height:44;border-left:solid #000000 0.4pt;border-right:solid #000000 0.4pt;border-top:solid #000000 0.4pt;border-bottom:solid #000000 0.4pt;padding:1.4pt 5.1pt 1.4pt 5.1pt'>
+	<P CLASS=HStyle0 STYLE='text-align:center;line-height:150%;'><SPAN STYLE='font-size:30.0pt;font-weight:"bold";line-height:150%'><a href="개인별정보26/26영석.htm" target="_top">영석(永碩)</a></SPAN></P>
+	</TD>
+</TR>
+<TR>
+	<TD valign="middle" style='width:286;height:44;border-left:solid #000000 0.4pt;border-right:solid #000000 0.4pt;border-top:solid #000000 0.4pt;border-bottom:solid #000000 0.4pt;padding:1.4pt 5.1pt 1.4pt 5.1pt'>
+	<P CLASS=HStyle0 STYLE='text-align:center;line-height:150%;'><SPAN STYLE='font-size:30.0pt;font-weight:"bold";line-height:150%'><a href="개인별정보26/26복영.htm" target="_top">복영(福瀯)</a></SPAN></P>
+	</TD>
+</TR>
+<TR>
+	<TD valign="middle" style='width:286;height:44;border-left:solid #000000 0.4pt;border-right:solid #000000 0.4pt;border-top:solid #000000 0.4pt;border-bottom:solid #000000 0.4pt;padding:1.4pt 5.1pt 1.4pt 5.1pt'>
+	<P CLASS=HStyle0 STYLE='text-align:center;line-height:150%;'><SPAN STYLE='font-size:30.0pt;font-weight:"bold";line-height:150%'><a href="개인별정보26/26길영.htm" target="_top">길영(吉永)</a></SPAN></P>
+	</TD>
+</TR>
+<TR>
+	<TD valign="middle" style='width:286;height:44;border-left:solid #000000 0.4pt;border-right:solid #000000 0.4pt;border-top:solid #000000 0.4pt;border-bottom:solid #000000 0.4pt;padding:1.4pt 5.1pt 1.4pt 5.1pt'>
+	<P CLASS=HStyle0 STYLE='text-align:center;line-height:150%;'><SPAN STYLE='font-size:30.0pt;font-weight:"bold";line-height:150%'><a href="개인별정보26/26봉진.htm" target="_top">봉진(奉珍)</a></SPAN></P>
+	</TD>
+</TR>
+<TR>
+	<TD valign="middle" style='width:286;height:44;border-left:solid #000000 0.4pt;border-right:solid #000000 0.4pt;border-top:solid #000000 0.4pt;border-bottom:solid #000000 0.4pt;padding:1.4pt 5.1pt 1.4pt 5.1pt'>
+	<P CLASS=HStyle0 STYLE='text-align:center;line-height:150%;'><SPAN STYLE='font-size:30.0pt;font-weight:"bold";line-height:150%'><a href="개인별정보26/26진석.htm" target="_top">진석(振碩</a></SPAN></P>
+	</TD>
+</TR>
+<TR>
+	<TD rowspan="3" valign="middle" style='width:290;height:131;border-left:solid #000000 0.4pt;border-right:solid #000000 0.4pt;border-top:solid #000000 0.4pt;border-bottom:solid #000000 0.4pt;padding:1.4pt 5.1pt 1.4pt 5.1pt'>
+	<P CLASS=HStyle0 STYLE='text-align:center;line-height:150%;'><SPAN STYLE='font-size:30.0pt;font-weight:"bold";line-height:150%'>유천(有天)</SPAN></P>
+	<P CLASS=HStyle0 STYLE='text-align:center;line-height:150%;'><SPAN STYLE='font-size:25.0pt;font-weight:"bold";line-height:150%'><a href="25유천%20계보.htm" target="_blank">&lt;계보&gt;</a></SPAN></P>
+	</TD>
+	<TD valign="middle" style='width:286;height:44;border-left:solid #000000 0.4pt;border-right:solid #000000 0.4pt;border-top:solid #000000 0.4pt;border-bottom:solid #000000 0.4pt;padding:1.4pt 5.1pt 1.4pt 5.1pt'>
+	<P CLASS=HStyle0 STYLE='text-align:center;line-height:150%;'><SPAN STYLE='font-size:30.0pt;font-weight:"bold";line-height:150%'><a href="개인별정보26/26향숙.htm" target="_top">향숙(香淑)</a></SPAN></P>
+	</TD>
+</TR>
+<TR>
+	<TD valign="middle" style='width:286;height:44;border-left:solid #000000 0.4pt;border-right:solid #000000 0.4pt;border-top:solid #000000 0.4pt;border-bottom:solid #000000 0.4pt;padding:1.4pt 5.1pt 1.4pt 5.1pt'>
+	<P CLASS=HStyle0 STYLE='text-align:center;line-height:150%;'><SPAN STYLE='font-size:30.0pt;font-weight:"bold";line-height:150%'><a href="개인별정보26/26봉민.htm" target="_top">봉민(奉旻)</a></SPAN></P>
+	</TD>
+</TR>
+<TR>
+	<TD valign="middle" style='width:286;height:44;border-left:solid #000000 0.4pt;border-right:solid #000000 0.4pt;border-top:solid #000000 0.4pt;border-bottom:solid #000000 0.4pt;padding:1.4pt 5.1pt 1.4pt 5.1pt'>
+	<P CLASS=HStyle0 STYLE='text-align:center;line-height:150%;'><SPAN STYLE='font-size:30.0pt;font-weight:"bold";line-height:150%'><a href="개인별정보26/26준민.htm" target="_top">준민(俊旻)</a></SPAN></P>
+	</TD>
+</TR>
+<TR>
+	<TD rowspan="8" valign="middle" style='width:274;height:350;border-left:solid #000000 0.4pt;border-right:solid #000000 0.4pt;border-top:solid #000000 0.4pt;border-bottom:solid #000000 0.4pt;padding:1.4pt 5.1pt 1.4pt 5.1pt'>
+	<P CLASS=HStyle0 STYLE='text-align:center;line-height:150%;'><SPAN STYLE='font-size:30.0pt;font-weight:"bold";line-height:150%'>덕신(德信)</SPAN></P>
+	<P CLASS=HStyle0 STYLE='text-align:center;line-height:150%;'><SPAN STYLE='font-size:30.0pt;font-weight:"bold";line-height:150%'>&nbsp;</SPAN></P>
+	<P CLASS=HStyle0 STYLE='text-align:center;line-height:150%;'><SPAN STYLE='font-size:25.0pt;font-weight:"bold";line-height:150%'><a href="24덕신%20계보.htm" target="_blank">&lt;계보&gt;</a></SPAN></P>
+	</TD>
+	<TD rowspan="4" valign="middle" style='width:290;height:175;border-left:solid #000000 0.4pt;border-right:solid #000000 0.4pt;border-top:solid #000000 0.4pt;border-bottom:solid #000000 0.4pt;padding:1.4pt 5.1pt 1.4pt 5.1pt'>
+	<P CLASS=HStyle0 STYLE='text-align:center;line-height:150%;'><SPAN STYLE='font-size:30.0pt;font-weight:"bold";line-height:150%'>동규(東奎)</SPAN></P>
+	<P CLASS=HStyle0 STYLE='text-align:center;line-height:150%;'><SPAN STYLE='font-size:25.0pt;font-weight:"bold";line-height:150%'><a href="25동규%20계보.htm" target="_blank">&lt;계보&gt;</a></SPAN></P>
+	</TD>
+	<TD valign="middle" style='width:286;height:44;border-left:solid #000000 0.4pt;border-right:solid #000000 0.4pt;border-top:solid #000000 0.4pt;border-bottom:solid #000000 0.4pt;padding:1.4pt 5.1pt 1.4pt 5.1pt'>
+	<P CLASS=HStyle0 STYLE='text-align:center;line-height:150%;'><SPAN STYLE='font-size:30.0pt;font-weight:"bold";line-height:150%'><a href="개인별정보26/26을석.htm" target="_top">을석(乙碩)</a></SPAN></P>
+	</TD>
+</TR>
+<TR>
+	<TD valign="middle" style='width:286;height:44;border-left:solid #000000 0.4pt;border-right:solid #000000 0.4pt;border-top:solid #000000 0.4pt;border-bottom:solid #000000 0.4pt;padding:1.4pt 5.1pt 1.4pt 5.1pt'>
+	<P CLASS=HStyle0 STYLE='text-align:center;line-height:150%;'><SPAN STYLE='font-size:30.0pt;font-weight:"bold";line-height:150%'><a href="개인별정보26/26행석.htm" target="_top">행석(行碩)</a></SPAN></P>
+	</TD>
+</TR>
+<TR>
+	<TD valign="middle" style='width:286;height:44;border-left:solid #000000 0.4pt;border-right:solid #000000 0.4pt;border-top:solid #000000 0.4pt;border-bottom:solid #000000 0.4pt;padding:1.4pt 5.1pt 1.4pt 5.1pt'>
+	<P CLASS=HStyle0 STYLE='text-align:center;line-height:150%;'><SPAN STYLE='font-size:30.0pt;font-weight:"bold";line-height:150%'><a href="개인별정보26/26성균.htm" target="_top">성균(成均)</a></SPAN></P>
+	</TD>
+</TR>
+<TR>
+	<TD valign="middle" style='width:286;height:44;border-left:solid #000000 0.4pt;border-right:solid #000000 0.4pt;border-top:solid #000000 0.4pt;border-bottom:solid #000000 0.4pt;padding:1.4pt 5.1pt 1.4pt 5.1pt'>
+	<P CLASS=HStyle0 STYLE='text-align:center;line-height:150%;'><SPAN STYLE='font-size:30.0pt;font-weight:"bold";line-height:150%'><a href="개인별정보26/26화종.htm" target="_top">화종(和宗)</a></SPAN></P>
+	</TD>
+</TR>
+<TR>
+	<TD rowspan="4" valign="middle" style='width:290;height:175;border-left:solid #000000 0.4pt;border-right:solid #000000 0.4pt;border-top:solid #000000 0.4pt;border-bottom:solid #000000 0.4pt;padding:1.4pt 5.1pt 1.4pt 5.1pt'>
+	<P CLASS=HStyle0 STYLE='text-align:center;line-height:150%;'><SPAN STYLE='font-size:30.0pt;font-weight:"bold";line-height:150%'>은규(溵奎)</SPAN></P>
+	<P CLASS=HStyle0 STYLE='text-align:center;line-height:150%;'><SPAN STYLE='font-size:25.0pt;font-weight:"bold";line-height:150%'><a href="25은규%20계보.htm" target="_blank">&lt;계보&gt;</a></SPAN></P>
+	</TD>
+	<TD valign="middle" style='width:286;height:44;border-left:solid #000000 0.4pt;border-right:solid #000000 0.4pt;border-top:solid #000000 0.4pt;border-bottom:solid #000000 0.4pt;padding:1.4pt 5.1pt 1.4pt 5.1pt'>
+	<P CLASS=HStyle0 STYLE='text-align:center;line-height:150%;'><SPAN STYLE='font-size:30.0pt;font-weight:"bold";line-height:150%'><a href="개인별정보26/26수명.htm" target="_top">수명(秀明)</a></SPAN></P>
+	</TD>
+</TR>
+<TR>
+	<TD valign="middle" style='width:286;height:44;border-left:solid #000000 0.4pt;border-right:solid #000000 0.4pt;border-top:solid #000000 0.4pt;border-bottom:solid #000000 0.4pt;padding:1.4pt 5.1pt 1.4pt 5.1pt'>
+	<P CLASS=HStyle0 STYLE='text-align:center;line-height:150%;'><SPAN STYLE='font-size:30.0pt;font-weight:"bold";line-height:150%'><a href="개인별정보26/26화석.htm" target="_top">화석(和晳)</a></SPAN></P>
+	</TD>
+</TR>
+<TR>
+	<TD valign="middle" style='width:286;height:44;border-left:solid #000000 0.4pt;border-right:solid #000000 0.4pt;border-top:solid #000000 0.4pt;border-bottom:solid #000000 0.4pt;padding:1.4pt 5.1pt 1.4pt 5.1pt'>
+	<P CLASS=HStyle0 STYLE='text-align:center;line-height:150%;'><SPAN STYLE='font-size:30.0pt;font-weight:"bold";line-height:150%'><a href="개인별정보26/26수연.htm" target="_top">수연(洙年)</a></SPAN></P>
+	</TD>
+</TR>
+<TR>
+	<TD valign="middle" style='width:286;height:44;border-left:solid #000000 0.4pt;border-right:solid #000000 0.4pt;border-top:solid #000000 0.4pt;border-bottom:solid #000000 0.4pt;padding:1.4pt 5.1pt 1.4pt 5.1pt'>
+	<P CLASS=HStyle0 STYLE='text-align:center;line-height:150%;'><SPAN STYLE='font-size:30.0pt;font-weight:"bold";line-height:150%'><a href="개인별정보26/26화명.htm" target="_top">화명(和明)</a></SPAN></P>
+	</TD>
+</TR>
+</TABLE>
+<P CLASS=HStyle0 STYLE='text-align:center;'></P>
+
+</BODY>
+
+</HTML>
