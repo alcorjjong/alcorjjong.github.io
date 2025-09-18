@@ -1,1 +1,0 @@
-# alcorjjong.github.io
